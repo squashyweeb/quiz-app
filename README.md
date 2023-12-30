@@ -1,20 +1,15 @@
-# Quiz Game
+# Quiz Game App
 
-This is a simple quiz game implemented in Python using the Tkinter library.
+This is a simple quiz game application built using Python and Tkinter.
 
-## Overview
+## Features
 
-The quiz game presents a series of questions with multiple-choice answers. Users can select an answer for each question and proceed to the next question. After completing all the questions, the user's score is displayed.
+- Multiple-choice questions
+- Score tracking
+- User-friendly interface
 
-## Requirements
+## Prerequisites
 
-- Python 3
-- Tkinter library 
+Make sure you have [Python](https://www.python.org/) installed on your machine.
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/quiz-game.git
-
+## How to Run
