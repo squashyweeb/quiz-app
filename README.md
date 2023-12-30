@@ -8,8 +8,9 @@ This is a simple quiz game application built using Python and Tkinter.
 - Score tracking
 - User-friendly interface
 
-## Prerequisites
+## necessary requirements 
 
 Make sure you have [Python](https://www.python.org/) installed on your machine.
 
 ## How to Run
+ - download and run
